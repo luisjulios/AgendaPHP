@@ -36,6 +36,9 @@ body{
   font-size: 1rem;
   text-decoration: none;
 }
+.btn:hover {
+  cursor: pointer;
+}
 .btn-editar {
   color: var(--secundario);
   margin-right: 1rem;
